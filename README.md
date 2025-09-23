@@ -1,4 +1,4 @@
-# JavaBeamformers
+# jBeamformers
 Java beamformers for Ultrasound prebeamformed data module, called using matlab
 
 1.    Download the ZIP file and extract it.
