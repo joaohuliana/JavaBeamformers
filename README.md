@@ -23,3 +23,8 @@ Java beamformers for Ultrasound prebeamformed data module, called using matlab
         Short-Lag Spatial Coherence (SLSC)
 
         Delay Multiply and Sum (DMAS)
+
+<img width="1018" height="624" alt="image" src="https://github.com/user-attachments/assets/0ec2b305-3cf1-41f6-a89c-8055c0d066c6" />
+
+<img width="994" height="611" alt="image" src="https://github.com/user-attachments/assets/c87d25db-2bd1-4c26-a39a-74a8344938d3" />
+
